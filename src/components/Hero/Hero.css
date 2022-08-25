@@ -1,0 +1,34 @@
+.hero{
+color: white;
+
+}
+
+.fun-heading{
+    display: flex;
+    margin-left: 10%;
+    font-size: 1.5rem;
+}
+
+li{
+    margin: 10px 10px;
+    font-size: x-large;
+}
+
+ul{
+    margin-top: 50px;
+    margin-left: 10%;
+}
+.facts-list{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.half-react{
+    width: 15rem;
+}
+
+li::marker{
+    font-size: 2.4rem;
+    color: #61DAFB
+}
